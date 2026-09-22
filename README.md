@@ -25,9 +25,9 @@ Motivated Software Engineering student and passionate Full-Stack Web Developer. 
 
 ### Backend & Databases
 <p align="left">
-  <img width="40" height="40" alt="nodejs" src="https://github.com/user-attachments/assets/0befd05a-51c7-43e6-8257-cf573b67e475" />
-  <img width="40" height="40" alt="express-js" src="https://github.com/user-attachments/assets/f78211e9-7381-4c95-8cc7-b44bc8be2873" />
-  <img width="40" height="40" alt="prisma" src="https://github.com/user-attachments/assets/c51a0d79-709f-4a8c-b835-acf9d0491db7" />
+  <img width="40" height="40" alt="nodejs" src="https://github.com/user-attachments/assets/1fbf1368-fb45-4fe0-9a41-cf058495f0fc" />
+  <img width="40" height="40" alt="expressjs1" src="https://github.com/user-attachments/assets/1d3b84da-de31-4c20-b23f-59761ff6c664" />
+  <img width="40" height="40" alt="prisma1" src="https://github.com/user-attachments/assets/53f343dd-f510-4556-a828-df6a2ffa6156" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
