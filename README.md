@@ -1,4 +1,3 @@
-<img width="800" height="800" alt="nodejs-icon-svgrepo-com" src="https://github.com/user-attachments/assets/dca22786-b535-4ff7-908c-962e36d99920" />
 ## Hi there 👋 I'm Kais
 
 **Full-Stack Web Developer | Software Engineering Student**
@@ -27,8 +26,8 @@ Motivated Software Engineering student and passionate Full-Stack Web Developer. 
 ### Backend & Databases
 <p align="left">
   <img width="40" height="40" alt="nodejs" src="https://github.com/user-attachments/assets/0befd05a-51c7-43e6-8257-cf573b67e475" />
-  <img width="1200" height="1200" alt="express-js" src="https://github.com/user-attachments/assets/f78211e9-7381-4c95-8cc7-b44bc8be2873" />
-  <img width="447" height="447" alt="prisma" src="https://github.com/user-attachments/assets/c51a0d79-709f-4a8c-b835-acf9d0491db7" />
+  <img width="40" height="40" alt="express-js" src="https://github.com/user-attachments/assets/f78211e9-7381-4c95-8cc7-b44bc8be2873" />
+  <img width="40" height="40" alt="prisma" src="https://github.com/user-attachments/assets/c51a0d79-709f-4a8c-b835-acf9d0491db7" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
