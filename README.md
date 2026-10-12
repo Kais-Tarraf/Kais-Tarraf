@@ -46,3 +46,21 @@ Motivated Software Engineering student and passionate Full-Stack Web Developer. 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kais-Tarraf&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
 </p>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kais-Tarraf/Kais-Tarraf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kais-Tarraf/Kais-Tarraf/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Kais-Tarraf/Kais-Tarraf/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Activity" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Kais-Tarraf">
+    <img src="https://komarev.com/ghpvc/?username=Kais-Tarraf&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </a>
+</div>
